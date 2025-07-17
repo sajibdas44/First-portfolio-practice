@@ -10,7 +10,7 @@
 
     /* header */
 .header{
-    background-image: url('../images/developer.png'), url('../Images/header_bg.png');
+    background-image: url('../Images/developer.png'), url('../Images/header_bg.png');
     background-repeat: no-repeat;
     background-position: top left, bottom right; 
     background-color: #FFF8F3;
